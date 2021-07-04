@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/chaitalizn/social-network-API-NoSQL#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
   }
 }
